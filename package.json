@@ -34,7 +34,6 @@
     "@netlify/functions": "^2.7.0",
     "@segment/analytics-next": "^1.70.0",
     "clsx": "^2.0.0",
-    "docusaurus-plugin-sass": "^0.2.5",
     "fs-extra": "^11.2.0",
     "jq-web": "^0.5.1",
     "lottie-react": "^2.4.0",
@@ -48,11 +47,13 @@
     "rehype-katex": "7",
     "remark-math": "6",
     "sass": "^1.81.0",
+    "sass-loader": "^16.0.3",
     "update-notifier": "^7.2.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.6.2",
     "@docusaurus/tsconfig": "^3.6.2",
+    "@docusaurus/types": "^3.6.3",
     "dictionary-en": "^4.0.0",
     "eslint": "^8.56.0",
     "eslint-plugin-react": "^7.33.2",
