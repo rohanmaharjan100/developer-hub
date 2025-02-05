@@ -1,7 +1,6 @@
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import React from 'react';
 import { TutorialCards } from '@site/src/components/TutorialCard/TutorialCard';
+import React from 'react';
 import styles from './styles.module.scss';
 // Define the cards in "***Data.ts"
 import { useColorMode } from '@docusaurus/theme-common';
